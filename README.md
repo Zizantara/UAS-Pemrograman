@@ -1,6 +1,12 @@
 # UAS-Pemrograman
 
-Saya akan menjelaskan kode program supermarket secara detail:
+Nama    : Zizantara Arzeva Cakra Kahana
+
+NIM     : 312410298
+
+Kelas   : TI,24.A.3
+
+# Penjeasan Code 
 
 1. **Struktur Class Product (data/savedata.py)**
 ```python
